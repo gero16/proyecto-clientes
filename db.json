@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan putin!",
+      "email": "correo2@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "Geronimo",
+      "email": "geronicola1696@gmail.com",
+      "telefono": "098221815",
+      "empresa": "empresa",
+      "id": 27
+    },
+    {
+      "nombre": "Luis",
+      "email": "geronicola1696@gmail.com",
+      "telefono": "098221815",
+      "empresa": "empresa",
+      "id": 29
+    },
+    {
+      "nombre": "Gervasio",
+      "email": "geronicola1696@gmail.com",
+      "telefono": "1221",
+      "empresa": "Tu novio",
+      "id": 31
+    },
+    {
+      "nombre": "Virginia",
+      "email": "venigo@adinet.com.uy",
+      "telefono": "1221",
+      "empresa": "Tu novio",
+      "id": 32
+    }
+  ]
+}
